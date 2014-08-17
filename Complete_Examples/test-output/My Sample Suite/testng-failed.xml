@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [My Sample Suite]">
+  <test name="testmail(failed)">
+    <classes>
+      <class name="testng.skip_test">
+        <methods>
+          <include name="testsendmail"/>
+          <include name="beforetest"/>
+          <include name="beforesuite"/>
+          <include name="testreceivemail"/>
+        </methods>
+      </class> <!-- testng.skip_test -->
+    </classes>
+  </test> <!-- testmail(failed) -->
+</suite> <!-- Failed suite [My Sample Suite] -->

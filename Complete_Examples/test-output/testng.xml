@@ -1,0 +1,14 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="My Sample Suite">
+
+
+<test name="testmail">
+    <classes>
+        <class name="testng.basic_flow" ></class>  
+    </classes>
+</test>
+
+
+
+
+</suite>

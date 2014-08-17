@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite hostname="AdminIT-PC" name="testng.basic_flow" tests="2" failures="0" timestamp="9 Jun 2014 13:35:54 GMT" time="0.0" errors="0">
+  <testcase name="testreceivemail" time="0.0" classname="testng.basic_flow"/>
+  <testcase name="testsendmail" time="0.0" classname="testng.basic_flow"/>
+</testsuite>

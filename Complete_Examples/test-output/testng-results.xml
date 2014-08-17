@@ -1,0 +1,32 @@
+<testng-results>
+  <reporter-output>
+  </reporter-output>
+  <suite name="My Sample Suite" duration-ms="0" started-at="2014-06-09T19:05:54Z" finished-at="2014-06-09T19:05:54Z">
+    <groups>
+    </groups>
+    <test name="testmail" duration-ms="0" started-at="2014-06-09T19:05:54Z" finished-at="2014-06-09T19:05:54Z">
+      <class name="testng.basic_flow">
+        <test-method status="PASS" signature="beforesuite()" name="beforesuite" is-config="true" duration-ms="15" started-at="2014-06-09T19:05:54Z" finished-at="2014-06-09T19:05:54Z">
+        </test-method>
+        <test-method status="PASS" signature="aftermethod()" name="aftermethod" is-config="true" duration-ms="0" started-at="2014-06-09T19:05:54Z" finished-at="2014-06-09T19:05:54Z">
+        </test-method>
+        <test-method status="PASS" signature="beforemethod()" name="beforemethod" is-config="true" duration-ms="0" started-at="2014-06-09T19:05:54Z" finished-at="2014-06-09T19:05:54Z">
+        </test-method>
+        <test-method status="PASS" signature="beforemethod()" name="beforemethod" is-config="true" duration-ms="0" started-at="2014-06-09T19:05:54Z" finished-at="2014-06-09T19:05:54Z">
+        </test-method>
+        <test-method status="PASS" signature="aftertest()" name="aftertest" is-config="true" duration-ms="0" started-at="2014-06-09T19:05:54Z" finished-at="2014-06-09T19:05:54Z">
+        </test-method>
+        <test-method status="PASS" signature="aftermethod()" name="aftermethod" is-config="true" duration-ms="0" started-at="2014-06-09T19:05:54Z" finished-at="2014-06-09T19:05:54Z">
+        </test-method>
+        <test-method status="PASS" signature="testsendmail()" name="testsendmail" duration-ms="0" started-at="2014-06-09T19:05:54Z" finished-at="2014-06-09T19:05:54Z">
+        </test-method>
+        <test-method status="PASS" signature="testreceivemail()" name="testreceivemail" duration-ms="0" started-at="2014-06-09T19:05:54Z" finished-at="2014-06-09T19:05:54Z">
+        </test-method>
+        <test-method status="PASS" signature="beforetest()" name="beforetest" is-config="true" duration-ms="0" started-at="2014-06-09T19:05:54Z" finished-at="2014-06-09T19:05:54Z">
+        </test-method>
+        <test-method status="PASS" signature="aftersuite()" name="aftersuite" is-config="true" duration-ms="0" started-at="2014-06-09T19:05:54Z" finished-at="2014-06-09T19:05:54Z">
+        </test-method>
+      </class>
+    </test>
+  </suite>
+</testng-results>
